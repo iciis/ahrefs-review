@@ -67,9 +67,17 @@ Site Audit crawls your website to identify SEO issues such as broken links, dupl
 
 **5. Content Explorer**
 
+<a href="https://afftrend.com/ahrefs">
+  <img src="https://drive.google.com/uc?export=view&id=1nYTKPGvvZqwS0PYoVtf8ykvvAO3RhyKp"  alt="Ahrefs Content Explorer">
+</a>
+
 This feature helps you discover the most popular content in your niche based on backlinks, social shares, and traffic. It’s a powerful tool for content ideation, competitor research, and finding potential outreach opportunities to amplify your brand’s reach and authority.
 
 **6. Web Analytics**
+
+<a href="https://afftrend.com/ahrefs">
+  <img src="https://drive.google.com/uc?export=view&id="  alt="Ahrefs Website Analytics">
+</a>
 
 A new feature in Ahrefs, Web Analytics offers insights into your website’s traffic performance. It tracks how users arrive at and interact with your site, giving detailed data on traffic sources, user behavior, and conversions. Perfect for understanding your audience and optimizing marketing strategies.
 
