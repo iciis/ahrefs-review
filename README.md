@@ -43,12 +43,17 @@ Ahrefs' AI Content Helper uses artificial intelligence to assist with creating h
 
 **2. Keywords Explorer**
 
+  <a href="https://afftrend.com/ahrefs">
+  <img src="https://drive.google.com/uc?export=view&id=1SbAEw-Li8U7zgZlWbcQsUbTgSEfnyZcA"  alt="Ahrefs Keyword Research">
+</a>
 
 This tool provides comprehensive keyword analysis by showing search volume, keyword difficulty, click-through rates, and parent topics. It helps users discover what people are searching for on Google and other platforms, enabling the creation of content that targets profitable and relevant keywords.
 
 **3. Rank Tracker**
 
-
+  <a href="https://afftrend.com/ahrefs">
+  <img src="https://drive.google.com/uc?export=view&id=1DsFEOMBwWcz2vAD_Sm8oGc-vkX_CfP-S"  alt="Ahrefs Rank Tracking">
+</a>
 
 Ahrefs’ Rank Tracker monitors how your keywords perform in search engine results over time. It shows rankings for both desktop and mobile, and lets you compare performance against competitors. You can track visibility, average position, and progress, making it essential for ongoing SEO efforts.
 
@@ -57,7 +62,6 @@ Ahrefs’ Rank Tracker monitors how your keywords perform in search engine resul
 <a href="https://afftrend.com/ahrefs">
   <img src="https://drive.google.com/uc?export=view&id=1Wg3u1J9YvRkg1eRS62BKkog-e8rVubI9"  alt="Ahrefs SEO Audit">
 </a>
-
 
 Site Audit crawls your website to identify SEO issues such as broken links, duplicate content, and slow loading times. It offers recommendations to improve your site’s technical health and SEO performance. It's ideal for keeping your website optimized and compliant with search engine guidelines.
 
